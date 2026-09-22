@@ -1,0 +1,1 @@
+# Kurdish-ASR-Whisper-FineTuning
